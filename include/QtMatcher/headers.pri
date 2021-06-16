@@ -1,0 +1,5 @@
+SYNCQT.HEADER_FILES = ../../include/QtMatcher/qtmatcher.h
+SYNCQT.HEADER_CLASSES = ../../include/QtMatcher/QtMatcher
+SYNCQT.PRIVATE_HEADER_FILES =
+SYNCQT.QPA_HEADER_FILES = 
+SYNCQT.INJECTIONS = 
